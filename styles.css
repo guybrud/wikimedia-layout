@@ -21,7 +21,7 @@ header {
 	flex-direction: row;
 	justify-content: space-between;
 	align-items: center;
-
+	min-width: 600px;
 	margin: 0 auto;
 }
 .farleft {
@@ -53,12 +53,6 @@ header {
 	flex-direction: column;
 	justify-content: space-between;
 }
-
-
-
-
-
-
 
 .footer1 {
 	text-align: center;
